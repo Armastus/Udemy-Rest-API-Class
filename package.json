@@ -1,0 +1,27 @@
+{
+  "name": "udemy-rest-api-class",
+  "version": "1.0.0",
+  "description": "Start Server:\r json-server --watch db.json",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armastus/Udemy-Rest-API-Class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armastus/Udemy-Rest-API-Class/issues"
+  },
+  "homepage": "https://github.com/Armastus/Udemy-Rest-API-Class#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3",
+    "supertest": "^3.3.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My new title",
+      "author": "Updated Author"
+    },
+    {
+      "id": 2,
+      "title": "Test world",
+      "arthor": "the tester"
+    },
+    {
+      "id": "0",
+      "title": "Test world",
+      "arthor": "the tester"
+    },
+    {
+      "id": 4,
+      "title": "Test world",
+      "arthor": "the tester"
+    },
+    {
+      "id": 5,
+      "title": "Test world",
+      "arthor": "the tester"
+    },
+    {
+      "id": 6,
+      "title": "Test world",
+      "arthor": "the tester"
+    },
+    {
+      "id": 7,
+      "title": "Test world",
+      "arthor": "the tester"
+    },
+    {
+      "id": 8,
+      "title": "Test world",
+      "arthor": "the tester"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
